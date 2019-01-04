@@ -2,7 +2,7 @@
 
 [image1]: ./assets/clip.gif "Sample Output"
 
-# 爱科研毕业项目-基于 MobileNets 的车辆探测系统
+# 爱科研毕业项目-基于MobileNets的车辆探测系统
 
 ## 项目概述
 
@@ -27,7 +27,7 @@ cd iResearch2/object_detection_lab
 3. 打开 notebook
 
  ```
-jupyter notebook traffic_sign.ipynb
+jupyter notebook Object-Detection-Lab.ipynb
 ```
 
 __注意：__ 我们虽然已经实现了一些代码，让你更快地开始工作，你仍需要实现额外的功能来完成项目的要求。
@@ -37,5 +37,5 @@ __除非有要求，否则不要修改任何已经包含的代码。__
 
 当你准备好提交你的项目时，将下列文件整理并压缩成一个文件，以便上传。
 
-- 代码完整可运行的文件 `traffic_sign.ipynb`，所有的代码块都要执行并展示结果
-- 最终结果以`csv`格式提交至`hzhmoon1217@163.com`
+- 代码完整可运行的文件 `Object-Detection-Lab.ipynb` 与最终生成的视频 `result.mp4`，所有的代码块都要执行并展示结果
+- 最终论文提交至邮箱 hzhmoon1217@163.com
