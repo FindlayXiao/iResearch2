@@ -2,7 +2,7 @@
 
 [image1]: ./assets/clip.gif "Sample Output"
 
-# 爱科研毕业项目-基于MobileNets的车辆探测系统
+# 毕业项目-基于MobileNets的车辆探测系统
 
 ## 项目概述
 
@@ -22,7 +22,7 @@
 cd iResearch2/object_detection_lab
 ```
 
-2. 下载[数据集](https://pan.baidu.com/s/1skQGYy6NrqLpNmHook8UGw)，并将数据集解压到存储库中。
+2. 下载[数据集](https://pan.baidu.com/s/1z5FzD9El1uVAgRxwkjHd_Q)，并将数据集解压到存储库中。
 
 3. 打开 notebook
 
