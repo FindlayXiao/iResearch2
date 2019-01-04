@@ -1,12 +1,12 @@
 [//]: # (Image References)
 
-[image1]: ./images/clip.gif "Sample Output"
+[image1]: ./assets/clip.gif "Sample Output"
 
-# 爱科研-基于深度学习CNN模型的智能识车助手
+# 爱科研毕业项目-基于深度学习CNN模型的智能识车助手
 
 ## 项目概述
 
-欢迎来到本次爱科研人工智能科研实训毕业项目！在这一项目中，你将学到如何使用神经网络 MobileNets 对车辆进行探测。
+欢迎来到本次爱科研人工智能科研实训毕业项目！在这一项目中，你将学到如何使用神经网络 MobileNets 对图像或视频中的车辆进行探测。
 
 ## 效果预览
 
