@@ -2,7 +2,7 @@
 
 [image1]: ./assets/clip.gif "Sample Output"
 
-# 爱科研毕业项目-基于深度学习CNN模型的智能识车助手
+# 爱科研毕业项目-基于 MobileNets 的车辆探测系统
 
 ## 项目概述
 
