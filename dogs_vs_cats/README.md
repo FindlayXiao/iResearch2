@@ -19,8 +19,7 @@
 1. 打开文件夹并激活环境。
 
  ```bash
-cd iResearch/dogs_vs_cats
-source activate iResearch
+cd iResearch2/dogs_vs_cats
 ```
 
 2. 下载[数据集](https://pan.baidu.com/s/1Q-vknLZZhPWGZfaXFaIg1g) ，并将数据集解压到存储库中。
@@ -40,6 +39,6 @@ __除非有要求，否则不要修改任何已经包含的代码。__
 
 当你准备好提交你的项目时，将下列文件整理并压缩成一个文件，以便上传。
 
-- 代码完整可运行的文件 `dogs_vs_cats.ipynb`，所有的代码块都要执行并展示结果，并要求回答所有问题
+- 代码完整可运行的文件 `dogs_vs_cats.ipynb`，所有的代码块都要执行并展示结果
 - 将你的 notebook 导出为 HTML 或 PDF 格式，并以 `report.html` 或是 `report.pdf` 命名
 - 任何用于项目中，并且并非由我们为这一项目提供的额外数据图片。
