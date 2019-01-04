@@ -12,11 +12,10 @@
 
 ### 步骤
 
-1. 打开文件夹并激活环境。
+1. 打开文件夹。
 
  ```bash
 cd iResearch2/traffic_sign
-source activate iResearch
 ```
 
 2. 下载[数据集](https://pan.baidu.com/s/1skQGYy6NrqLpNmHook8UGw)，并将数据集解压到存储库中。
