@@ -16,10 +16,11 @@
 
 ### 步骤
 
-1. 打开文件夹。
+1. 打开文件夹并激活环境。
 
  ```bash
 cd iResearch2/object_detection_lab
+source activate iResearch
 ```
 
 2. 下载[数据集](https://pan.baidu.com/s/1z5FzD9El1uVAgRxwkjHd_Q)，并将数据集解压到存储库中。
