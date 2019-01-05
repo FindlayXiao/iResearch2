@@ -5,8 +5,8 @@
 1. 克隆存储库并打开下载的文件夹。
 
  ```	
-git clone https://github.com/huangzh10/iResearch.git
-cd iResearch/boston_housing
+git clone https://github.com/huangzh10/iResearch2.git
+cd iResearch2/boston_housing
 ```
 
 2. 安装必要的 Python 依赖包
@@ -47,7 +47,3 @@ __除非有要求，否则不要修改任何已经包含的代码。__
 **目标变量**
 
 `MEDV`: 房屋的中值价格
-
-### 参考答案
-
-[http://www.zihanhuang.com/projects/boston_housing.html](http://www.zihanhuang.com/projects/boston_housing.html)
