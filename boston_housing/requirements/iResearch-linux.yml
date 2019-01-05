@@ -72,3 +72,4 @@ dependencies:
   - moviepy
   - keras_tqdm
   - cvxpy
+  - scikit-image
