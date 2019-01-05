@@ -20,6 +20,7 @@
 
  ```bash
 cd iResearch2/dogs_vs_cats
+source activate iResearch
 ```
 
 2. 下载[数据集](https://pan.baidu.com/s/1Q-vknLZZhPWGZfaXFaIg1g) ，并将数据集解压到存储库中。
