@@ -71,5 +71,4 @@ dependencies:
   - widgetsnbextension==2.0.0
   - moviepy
   - keras_tqdm
-  - cvxpy
   - scikit-image
