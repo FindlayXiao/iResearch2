@@ -204,5 +204,4 @@ dependencies:
   - tqdm==4.11.2
   - moviepy
   - keras_tqdm
-  - cvxpy
   - scikit-image
