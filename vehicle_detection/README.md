@@ -23,7 +23,7 @@ cd iResearch2/vehicle_detection
 source activate iResearch
 ```
 
-2. 下载[数据集](https://pan.baidu.com/s/1skQGYy6NrqLpNmHook8UGw)，并将数据集解压到存储库中。
+2. 下载[数据集](https://pan.baidu.com/s/1PevLqAOwiY9RJJaoQax00g)，并将数据集解压到存储库中。
 
 3. 打开 notebook
 
