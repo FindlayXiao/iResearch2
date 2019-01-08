@@ -95,6 +95,5 @@ dependencies:
   - win-unicode-console==0.5
   - moviepy
   - keras_tqdm
-  - cvxpy
   - scikit-image
 
